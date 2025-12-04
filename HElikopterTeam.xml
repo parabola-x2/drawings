@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.177 Safari/537.36" version="29.2.3">
+  <diagram name="Page-1" id="0">
+    <mxGraphModel dx="1042" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="1" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" parent="0" style=";html=1;" />
+        <mxCell id="2" parent="1" style="ellipse;fillColor=#3399FF;opacity=40;strokeColor=none;html=1;" value="&lt;h1&gt;TEAM Android&amp;nbsp;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="500" width="500" x="220" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="1" style="ellipse;fillColor=#FF0000;opacity=50;strokeColor=none;html=1;" value="&lt;h1&gt;TEAM Embedded&amp;nbsp;&lt;/h1&gt;&lt;h1&gt;Systems&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="500" width="500" x="530" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="ellipse;fillColor=#006600;opacity=50;strokeColor=none;html=1;" value="&lt;h1&gt;TEAM Virtual Reality&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="500" width="500" x="530" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="12" parent="1" style="ellipse;fillColor=#fff2cc;opacity=40;strokeColor=#d6b656;html=1;direction=south;" value="&lt;h1&gt;TEAM Control&amp;nbsp;&lt;/h1&gt;&lt;h1&gt;Application&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="500" width="500" x="220" y="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
