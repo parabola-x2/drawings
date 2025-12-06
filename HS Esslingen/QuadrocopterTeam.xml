@@ -1,17 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="29.2.4">
   <diagram name="Page-1" id="8cU9yuOPQpV65cgYwSo_">
-    <mxGraphModel dx="1952" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1952" dy="2189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CRQskb336P-rOSqz4l_X-2" parent="1" style="ellipse;fillColor=#FF0000;opacity=50;strokeColor=none;html=1;" value="&lt;h1&gt;TEAM Embedded&amp;nbsp;&lt;/h1&gt;&lt;h1&gt;Software&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="500" width="500" x="368" y="20" as="geometry" />
+        <mxCell id="CRQskb336P-rOSqz4l_X-2" parent="1" style="ellipse;fillColor=#FF0000;opacity=50;strokeColor=none;html=1;" value="&lt;h1&gt;TEAM Control&amp;nbsp;&lt;/h1&gt;&lt;h1&gt;Application&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="500" width="500" x="550" y="-40" as="geometry" />
         </mxCell>
         <mxCell id="CRQskb336P-rOSqz4l_X-3" parent="1" style="ellipse;fillColor=#006600;opacity=50;strokeColor=none;html=1;" value="&lt;h1&gt;TEAM Android Application&lt;/h1&gt;&lt;h1&gt;and Virtual Reality&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="500" width="500" x="530" y="300" as="geometry" />
+          <mxGeometry height="500" width="500" x="550" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="CRQskb336P-rOSqz4l_X-4" parent="1" style="ellipse;fillColor=#fff2cc;opacity=40;strokeColor=#d6b656;html=1;direction=south;" value="&lt;h1&gt;TEAM Control&amp;nbsp;&lt;/h1&gt;&lt;h1&gt;Application&lt;/h1&gt;" vertex="1">
+        <mxCell id="CRQskb336P-rOSqz4l_X-4" parent="1" style="ellipse;fillColor=#fff2cc;opacity=40;strokeColor=#d6b656;html=1;direction=south;" value="&lt;h1&gt;TEAM Web based PM&amp;nbsp;&lt;/h1&gt;&lt;h1&gt;and Database Management&lt;/h1&gt;" vertex="1">
           <mxGeometry height="500" width="500" x="220" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3FqHjW0mL6xKBKqXkDJl-1" parent="1" style="ellipse;fillColor=#dae8fc;opacity=50;strokeColor=#6c8ebf;html=1;gradientColor=#7ea6e0;" value="&lt;h1&gt;TEAM Embedded&amp;nbsp;&lt;/h1&gt;&lt;h1&gt;Software&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="500" width="500" x="220" y="-40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
